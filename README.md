@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis 
-The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program, specifically por Pet Products.
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program, specifically for Pet Products.
 
 ## Results 
 VINE REVIEWS SUMMARY TABLE
