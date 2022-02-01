@@ -21,7 +21,7 @@ NON-VINE REVIEWS SUMMARY TABLE
   For the unpaid Vine, 5 star reviews represented a 54.5% of the total. 
 
 ## Summary
-According to the results seen for the pet-products reviews, it doesn't look like there's a positive bias for reviews in the Vine program. This program actually presented a lower percentage of 5 star reviews than the unpaid program (38 vs. 54%, respectively).
+According to the results seen for the pet-products reviews, it doesn't look like there's a positive bias for reviews in the Vine program. This program actually presented a lower percentage of 5 star reviews than the unpaid program (38% vs. 54%, respectively).
 
 An additional analysis that could be done with the dataset, is to get the percentages for 4 star reviews, given that this is also considered a "positive" review. Analysing both ratings (4 and 5 stars), together and separately, might give us a better insight into possible biases. 
 
